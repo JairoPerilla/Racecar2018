@@ -1,0 +1,8 @@
+Pendientes:
+	1.-Racecar Gasivo paquete
+	2.-Investigar (nodos de ros para mover tortuga) ROS (ROS 	    publisher, subscriber)
+			Recibir mensajes mde laserscan y camera
+	3.-Keyboardteleop.py?
+	4.-Ackermanndrivestamped (mensajes de movimiento)
+	5.-Filtrso (hough transformations, open cv)
+	6.- RVIZ, ROSbag, ROSplay, PID control (wall follower)
